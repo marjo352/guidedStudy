@@ -1,0 +1,38 @@
+
+.scroll-top {
+    float: right;
+}
+
+ /* Exercise 1 */
+ .scroll-top {
+    float: right;
+}
+
+/* Exercise 7 */
+.display {
+    color: blue;
+    font-weight: bold;
+}
+
+/* Exercise 11 */
+.jquery {
+    background-color: #b0e6d1;
+    width: 70px;
+    border: 1px solid rgba(255, 0, 242, 0.767);
+    opacity: 0.4;
+    margin-Left: 0.6in;
+font-size: 1em;
+
+}
+
+/* Exercise 12 */
+.block {
+    position: absolute;
+    background-color: #32a4c0;
+    left: 40px;
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+}
+
+
